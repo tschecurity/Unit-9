@@ -37,7 +37,7 @@ Description: The idea is to find a script that will trigger an alert tag. Here, 
 
 ## Red
 
-Vulnerability #1: Hijacking Fixation
+Vulnerability #1: Session Fixation
 
 Description: The idea is to use a session ID and URL to trick a user into using the session ID URL to log into their system or account; therefore gaining access to their information. Here, you navigate to the developer console find cache, cookie session add to end or URL. However, it is important to make sure the attackee is logged in first. That way the attack and the attackee sesssion mirror eachother allowing attacker to gain info from attackee
 
