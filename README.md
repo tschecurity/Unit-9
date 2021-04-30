@@ -28,7 +28,7 @@ Description: Use a SQL Injection to manipulate data values in a SQL database. Th
 
 Vulnerability #1: XSS Cross Site Scripting
 
-Description: The idea is to find a script that will trigger an alert tag. Here, I inputted a script tage in the comment sections and trigger the alert when logged in as an admin. However, a more malicious action for an atacker is to create an SQLi injection with a malicious script that reveals senstive information such as user data.
+Description: The idea is to find a script that will trigger an alert tag. Here, I inputted a script tag in the comment sections and trigger the alert when logged in as an admin. However, a more malicious action for an attacker is to create an SQLi injection with a malicious script that reveals senstive information such as user data.
 
 ![greenvulnerability](https://user-images.githubusercontent.com/64348938/115822051-bcb1a200-a3b8-11eb-90aa-5dd96a9c2003.png)
 
