@@ -41,7 +41,7 @@ Vulnerability #1: Session Fixation
 
 Description: The idea is to use a session ID and URL to trick a user into using the session ID URL to log into their system or account; therefore gaining access to their information. Here, you navigate to the developer console find cache, cookie session add to end or URL. However, it is important to make sure the attackee is logged in first. That way the attack and the attackee sesssion mirror eachother allowing attacker to gain info from attackee.
 
-![redsessionhijackingchrome](https://user-images.githubusercontent.com/64348938/115822554-993b2700-a3b9-11eb-9233-78ec343ba14c.png)
+![redsessionhijackingchrome](https://user-images.githubusercontent.com/64348938/116763472-550be000-a9d2-11eb-84f6-16fca7800878.png)
 
 ![redsessionhijackingsafari](https://user-images.githubusercontent.com/64348938/115822586-a6581600-a3b9-11eb-8030-43be6afcffbb.png)
 
