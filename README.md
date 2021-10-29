@@ -49,4 +49,4 @@ Description: The idea is to use a session ID and URL to trick a user into using 
 
 ## Notes
 
-I encountered an issue with appending the session ID to the end of the URL for hijacking fixation. I tried several query string values, such as PHSESSION, SESSION, etc. Eventually, I figured out the correct query value. 
+I encountered an issue with appending the session ID to the end of the URL for hijacking fixation. I tried several session types, such as PHSESSION, SESSION, etc. Eventually, I figured out the correct session type. 
